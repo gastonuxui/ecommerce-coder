@@ -1,0 +1,76 @@
+
+
+
+
+$primary: #242731;
+$danger: #5D27C8;
+$success: #242731;
+
+$theme-colors: (
+  "primary": $primary,
+  "danger": $danger,
+  "success": $success
+);
+
+
+.botoncarrito{
+    background-color: transparent;
+    border: 0;
+}
+
+.container{
+    padding: 30px;
+    
+}
+
+.card{
+    margin: 10px;
+    align-items: center;    
+    box-shadow: 0px 2px 5px 0px #5e5a5a;
+    border-radius: 1px solid black;
+}
+
+
+.card img { 
+    
+    width: 174px;
+    height: 174px;
+    
+}
+
+
+.mi-popup-swal{
+    background-color: #FFFFFF;
+    width: 284px;
+    height: 99px;
+    font-size:xx-small ;
+    border-left: 4px solid #007BFF;    
+    border-radius: 2,74px;
+    
+}
+  
+  .container {
+    padding: 30px; }
+  
+  .card {
+    margin: 10px;
+    align-items: center;
+    box-shadow: 4px 4px 51px -11px rgba(0,0,0,0.29);
+    border-radius: 1px solid black; }
+  
+  .card img {
+    width: 174px;
+    height: 174px; }
+  
+  .mi-popup-swal {
+    background-color: #FFFFFF;
+    width: 284px;
+    height: 99px;
+    font-size: xx-small;
+    border-left: 4px solid #007BFF;
+    border-radius: 2,74px; }
+
+    .botonesfinales{
+        display:flex;
+    }
+   

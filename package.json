@@ -1,0 +1,24 @@
+{
+  "name": "3era-pre-entrega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+
+    "build": "node-sass --include-path sass ./sass/estilos.scss ./css/nuevoStyle.css -w"
+
+  },
+
+
+  "author": "Gaston",
+
+  "license": "ISC",
+  
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  },
+
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}

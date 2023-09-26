@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nombre": "Maquina de tatuar",
+        "precio": 2500,
+        "descripcion": "Maquina Pen Tattoo Atom Tatuar Tatuajes Japones",
+        "cantidad": 1,
+        "alt": "Las mejores zapatillas",
+        "img": "./imagenes/Frame3009.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Maquina de tatuar",
+        "precio": 2500,
+        "descripcion": "Maquina Tattoo Hibrida Tatuajes Tatuar Machine Tatuador",
+        "cantidad": 1,
+        "alt": "Un microprpocesador AMD",
+        "img": "./imagenes/Frame3010.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Máquina de tatuar",
+        "precio": 2500,
+        "descripcion": "Maquina Pen Profesional Noir Inalámbrica Tattoo Tatuar Dual",
+        "cantidad": 1,
+        "alt": "Un microprpocesador AMD",
+        "img": "./imagenes/Frame3011.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Máquina de tatuar",
+        "precio": 2500,
+        "descripcion": "Maquina Rotativa Sdk Luxe Rca Tatuar Tatuajes Tattoo Rca",
+        "cantidad": 1,
+        "alt": "Un microprpocesador AMD",
+        "img": "./imagenes/Frame3012.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Máquina de tatuar",
+        "precio": 2500,
+        "descripcion": "Pen Mast Archer Max Inalambrica Tattoo 4.2mm Tatuar",
+        "cantidad": 1,
+        "alt": "Un microprpocesador AMD",
+        "img": "./imagenes/Frame3013.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Máquina de tatuar",
+        "precio": 2500,
+        "descripcion": "Maquina Tattoo Ricky Ramirez Tatuajes Tribal Tatuar",
+        "cantidad": 1,
+        "alt": "Un microprpocesador AMD",
+        "img": "./imagenes/Frame3014.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Máquina de tatuar",
+        "precio": 2500,
+        "descripcion": "Maquina Tattoo Ricky Ramirez Tatuajes Tribal Tatuar",
+        "cantidad": 1,
+        "alt": "Un microprpocesador AMD",
+        "img": "./imagenes/Frame3015.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Máquina de tatuar",
+        "precio": 2500,
+        "descripcion": "Maquina De Tatuar Rotativa Pen Magna Jumbo Motor Mabuchi 12v",
+        "cantidad": 1,
+        "alt": "Un microprpocesador AMD",
+        "img": "./imagenes/Frame3016.jpg"
+    }
+]
