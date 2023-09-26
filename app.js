@@ -295,7 +295,7 @@ class Carro {
 
                   this.vaciarCarrito()
                   this.mostrarEnDom()
-                
+                    this.guardarEnStorage()
                 
                 
                 
